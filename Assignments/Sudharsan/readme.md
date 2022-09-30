@@ -1,1 +1,19 @@
-sudharsan
+NAME : sudharsan R
+
+ROLLNO : 410619104038
+
+EMAIL : ssudharsan141@gmail.com
+
+MOBILE NUMBER : 9884097338
+
+GENDER : MALE
+
+DATE OF BIRTH : 25/03/2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
