@@ -1,1 +1,21 @@
-shamir ahmed
+
+
+NAME : Shamir Ahmed B
+
+ROLLNO : 410619104035
+
+EMAIL : shamirahmed030@gmail.com
+
+MOBILE NUMBER : 9360160869
+
+GENDER : MALE
+
+DATE OF BIRTH : 30/01/2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
