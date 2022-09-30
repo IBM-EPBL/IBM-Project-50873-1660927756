@@ -1,1 +1,19 @@
-shaik abdullah
+NAME : shaik abdullah
+
+ROLLNO : 410619104034
+
+EMAIL : shaik112abdullah@gmail.com
+
+MOBILE NUMBER :9150511658
+
+GENDER : MALE
+
+DATE OF BIRTH : 29-05-2002
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
