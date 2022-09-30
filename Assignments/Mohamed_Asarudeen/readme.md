@@ -1,1 +1,19 @@
-mohamed asarudeen 
+NAME : Mohamed Asarudeen A
+
+ROLLNO : 410619104017
+
+EMAIL : mohamedasarudeen435@gmail.com
+
+MOBILE NUMBER : 9384904911
+
+GENDER : MALE
+
+DATE OF BIRTH : 18/11/2000
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
