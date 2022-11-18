@@ -1,0 +1,283 @@
+<html lang="en">
+
+<head>
+    <title>Register</title>
+    <link href="https://cdn.bootcss.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+<style>
+.header {	position: relative;
+			top:0;	
+			margin:0px;
+			z-index: 1;
+			left: 0px;
+			right: 0px;
+			position: fixed;
+			background-color: #F36262 ;
+			color: white;
+			box-shadow: 0px 8px 4px grey;
+			overflow: hidden;
+			padding-left:20px;
+			font-family: 'Josefin Sans';
+			font-size: 2vw;
+			width: 100%;
+			height:8%;
+			text-align: center;
+		}
+		.topnav {
+  overflow: hidden;
+  background-color: #FCAD98;
+}
+
+.topnav-right a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.topnav-right a:hover {
+  background-color: #FCAD98;
+  color: black;
+}
+
+.topnav-right a.active {
+  background-color: #FCAD98;
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+  padding-right:100px;
+}
+
+body {
+
+  background-color: ;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-image: url("https://i.pinimg.com/originals/b2/1d/c6/b21dc69346915015bc4e19bd502f401b.gif");
+    background-size: cover;
+  background-position: 0px 0px;
+  }
+  .button {
+  background-color: #091425; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 16px;
+}
+.button:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+form {border: 3px solid #f1f1f1; margin-left:400px;margin-right:400px;}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  display: inline-block;
+  margin-bottom:18px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #091425;
+  color: white;
+  padding: 14px 20px;
+  margin-bottom:10px;
+  border: none;
+  cursor: pointer;
+  width: 17%;
+  border-radius:4px;
+  font-family:Montserrat;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.cancelbtn {
+  width: auto;
+  padding: 10px 18px;
+  background-color: #f44336;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 30%;
+  border-radius: 50%;
+}
+
+.container {
+  padding: 16px;
+}
+
+span.psw {
+  float: right;
+  padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+  span.psw {
+     display: block;
+     float: none;
+  }
+  .cancelbtn {
+     width: 100%;
+  }
+}
+
+.home{
+	margin:80px;
+	
+  width: 84%;
+  height: 500px;
+  padding-top:10px;
+  padding-left: 30px;  
+  
+}
+.login{
+	margin:80px;
+	box-sizing: content-box;  
+  width: 84%;
+  height: 420px;
+  padding: 30px;  
+  border: 10px solid blue;
+}
+.left,.right{
+ box-sizing: content-box; 
+ height: 400px;
+ margin:20px;
+ border: 10px solid blue;
+}
+
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+/* The dots/bullets/indicators */
+.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active {
+  background-color: #FCAD98;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+
+
+
+
+
+
+
+.bar
+{
+margin: 0px;
+padding:20px;
+background-color:white;
+opacity:0.6;
+color:black;
+font-family:'Roboto',sans-serif;
+font-style: italic;
+border-radius:20px;
+font-size:25px;
+}
+a
+{
+color:grey;
+float:right;
+text-decoration:none;
+font-style:normal;
+padding-right:20px;
+}
+a:hover{
+background-color:black;
+color:white;
+border-radius:15px;0
+font-size:30px;
+padding-left:10px;
+}
+body
+{
+    background-image: url("https://images.unsplash.com/photo-1532883130016-f3d311140ba8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    background-size: cover;
+}
+p
+{
+color:white;
+font-style:italic;
+font-size:30px;
+}
+</style> 
+</head>
+
+<body>
+
+<div class="header">    
+<div style="width:50%;float:left;font-size:2vw;text-align:left;color:black; padding-top:1%;padding-left:5%;">AI based Natural disaster analysis</div>
+  <div class="topnav-right"style="padding-top:0.5%;">
+    
+    <a  href="\F:\College Academics\PRIEE\AI-Based-Natural-Disaster-Intensity-Analysis-main\Flask\templates\home.html">Home</a>
+    <a href="F:\College Academics\PRIEE\AI-Based-Natural-Disaster-Intensity-Analysis-main\Flask\templates\intro.html">Introduction</a>
+    <a class="active" href="F:\College Academics\PRIEE\AI-Based-Natural-Disaster-Intensity-Analysis-main\Flask\templates\upload.html">Open Web Cam</a>
+  </div>
+</div>
+
+</body>
+</html>
